@@ -1,12 +1,11 @@
 # 刷題 `leetcode`
 
-[優化 IO](https://blog.csdn.net/weixin_43732798/article/details/109804454)
+[Java 優化 IO](https://blog.csdn.net/weixin_43732798/article/details/109804454)
 
 [代碼隨想錄](https://github.com/youngyangyang04/leetcode-master)
 
 [leetcode](https://leetcode.com)
 
-[刷題 zerojudge](/DLRK4xSCSsK6ogoB9oWlXQ)
 
 
 # Study Plan
