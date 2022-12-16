@@ -10,7 +10,7 @@
 
 # Study Plan
 
-## Algorithm
+## [Algorithm](https://github.com/kurase023/cyim_coding/tree/main/contents/algorithm.md)
 ### Algorithm I
 ##### Day 1 Binary Search
 704.[Binary Search](https://leetcode.com/problems/binary-search/) <font color="green">`Easy`</font> 
