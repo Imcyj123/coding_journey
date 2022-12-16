@@ -17,7 +17,7 @@
 
 
 # Data Structure
-- Data Structure I](https://github.com/kurase023/cyim_coding/blob/main/contents/data_structure_i.md)
+- [Data Structure I](https://github.com/kurase023/cyim_coding/blob/main/contents/data_structure_i.md)
 
 ### Data Structure II
 ##### Day1 Array
