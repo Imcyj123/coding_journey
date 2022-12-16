@@ -10,8 +10,8 @@
 
 # Study Plan
 
-## [Algorithm](https://github.com/kurase023/cyim_coding/tree/main/contents/algorithm.md)
-- Algorithm I
+## [Algorithm]
+- Algorithm I (https://github.com/kurase023/cyim_coding/tree/main/contents/algorithm_i.md)
 - Algorithm II
 - Algorithm III
 
