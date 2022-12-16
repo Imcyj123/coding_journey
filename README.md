@@ -2,9 +2,9 @@
 
 ## 筆記
 
-[note-leetcode](https://github.com/kurase023/cyim_coding/blob/main/contents/leetcode.md)
+[leetcode - note](https://github.com/kurase023/cyim_coding/blob/main/contents/leetcode.md)
 
-[note-zerojudge](https://github.com/kurase023/cyim_coding/blob/main/contents/zerojudge.md)
+[zerojudge - note](https://github.com/kurase023/cyim_coding/blob/main/contents/zerojudge.md)
 
 ## 刷題網站
 
