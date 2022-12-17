@@ -8,8 +8,8 @@
 - [c014: 10035 - Primary Arithmetic](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/c014.md)
 
 - [f418: Word Search Puzzle](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/f418.md)
-- [d142](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
-- [d047](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
+- [d142: 10023 - Square root](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/d142.md)
+- [d047: 10070 - Leap Year or Not Leap Year and ...](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/d047.md)
 - [c061](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
 - [d193](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
 - [d134(https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
