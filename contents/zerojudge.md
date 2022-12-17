@@ -6,7 +6,13 @@
 - [c665: 進制轉換](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/c665.md)
 - [c044: 10008 - What's Cryptanalysis](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/c044.md)
 - [c014: 10035 - Primary Arithmetic](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/c014.md)
-f418 d142 d047 c061 d193 d134
-- e351
+
+- [f418: Word Search Puzzle](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/f418.md)
+- [d142](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
+- [d047](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
+- [c061](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
+- [d193](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
+- [d134(https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
+- [e351](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
 
 [](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
