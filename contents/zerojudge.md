@@ -11,8 +11,8 @@
 - [d142: 10023 - Square root](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/d142.md)
 - [d047: 10070 - Leap Year or Not Leap Year and ...](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/d047.md)
 - [c061: 00530 - Binomial Showdown](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/c061.md)
-- [d193](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
-- [d134(https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
+- [d193: 11526 - H(n)](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/d193.md)
+- [d134: 00369 - Combinations](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/d134.md)
 - [e351](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
 
 [](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
