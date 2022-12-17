@@ -13,6 +13,6 @@
 - [c061: 00530 - Binomial Showdown](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/c061.md)
 - [d193: 11526 - H(n)](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/d193.md)
 - [d134: 00369 - Combinations](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/d134.md)
-- [e351](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
+- [e351: And 運算](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/e351.md)
 
 [](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
