@@ -10,7 +10,7 @@
 - [f418: Word Search Puzzle](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/f418.md)
 - [d142: 10023 - Square root](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/d142.md)
 - [d047: 10070 - Leap Year or Not Leap Year and ...](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/d047.md)
-- [c061](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
+- [c061: 00530 - Binomial Showdown](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/c061.md)
 - [d193](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
 - [d134(https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
 - [e351](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/.md)
