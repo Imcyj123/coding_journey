@@ -2,10 +2,10 @@
 
 
 
-- [a158: 11827 - Maximum GCD](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/a158.md)
-- [c665: 進制轉換](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/c665.md)
-- [c044: 10008 - What's Cryptanalysis](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/c044.md)
-- [c014: 10035 - Primary Arithmetic](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/c014.md)
+- [a158: 11827 - Maximum GCD](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/zerojudge/a158.md)
+- [c665: 進制轉換](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/zerojudge/c665.md)
+- [c044: 10008 - What's Cryptanalysis](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/zerojudge/c044.md)
+- [c014: 10035 - Primary Arithmetic](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/zerojudge/c014.md)
 
 - [f418: Word Search Puzzle](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/zerojudge/f418.md)
 - [d142: 10023 - Square root](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/zerojudge/d142.md)
