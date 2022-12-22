@@ -21,6 +21,6 @@
 - [d219: 00374 - Big Mod](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/zerojudge/d219.md)
 - [e895: 好多正方形](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/zerojudge/e895.md)
 - [a863: 3. Happy Numbers](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/zerojudge/a863.md)
-[](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/zerojudge/.md)
+- [a271 彩色蘿蔔](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/zerojudge/a271.md)
 [](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/zerojudge/.md)
 [](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/zerojudge/.md)
