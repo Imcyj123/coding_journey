@@ -10,7 +10,7 @@
 
 - [UVa](https://onlinejudge.org)
 
-- [LeetCode](https://onlinejudge.org)
+- [LeetCode](https://leetcode.com)
 
 - [AOJ](https://judge.u-aizu.ac.jp/onlinejudge/index.jsp)
 
