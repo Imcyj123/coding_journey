@@ -1,6 +1,14 @@
 # 刷題 `zerojudge`
 
 - [d353. 幼稚數列](https://github.com/Imcyj123/coding_journey/blob/main/contents/problems/zerojudge/d353.md)
+- [f447. 12918 - Lucky Thief](https://github.com/Imcyj123/coding_journey/blob/main/contents/problems/zerojudge/f447.md)
+
+
+
+
+- [](https://github.com/Imcyj123/coding_journey/blob/main/contents/problems/zerojudge/.md)
+
+
 
 - [a158: 11827 - Maximum GCD](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/zerojudge/a158.md)
 - [c665: 進制轉換](https://github.com/kurase023/cyim_coding/tree/main/contents/problems/zerojudge/c665.md)
